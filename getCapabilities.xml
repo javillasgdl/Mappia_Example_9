@@ -197,7 +197,7 @@
 				<Title>por_venta</Title>
 				<Abstract>GH:por_venta ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-104.00456845770309" miny="20.44027175531337" maxx="-102.79176117261882" maxy="20.912119769132346"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>por_cliente</Title>
 				<Abstract>GH:por_cliente ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-104.00456845770309" miny="20.44027175531337" maxx="-102.79176117261882" maxy="20.912119769132346"></LatLonBoundingBox>
